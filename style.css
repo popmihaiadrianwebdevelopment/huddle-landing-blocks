@@ -63,6 +63,9 @@ li {
 .aling-start {
     align-items: flex-start;
 }
+.copy {
+    text-align: center;
+}
 
 
 /* Header */
